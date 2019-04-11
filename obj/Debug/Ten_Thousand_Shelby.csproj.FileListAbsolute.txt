@@ -1,0 +1,6 @@
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\bin\Debug\Ten_Thousand_Shelby.exe.config
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\obj\Debug\Ten_Thousand_Shelby.csprojResolveAssemblyReference.cache
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\bin\Debug\Ten_Thousand_Shelby.exe
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\bin\Debug\Ten_Thousand_Shelby.pdb
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\obj\Debug\Ten_Thousand_Shelby.exe
+C:\Users\shelby.shelby\Documents\C#\Ten_Thousand_Shelby\obj\Debug\Ten_Thousand_Shelby.pdb
